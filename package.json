@@ -1,0 +1,1 @@
+{"name":"channel-master-slash","version":"1.0.0","type":"module","scripts":{"start":"node index.js","deploy":"node deploy.js"},"engines":{"node":">=22"},"dependencies":{"discord.js":"^14.22.1","dotenv":"^16.6.1"}}
